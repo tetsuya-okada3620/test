@@ -27,3 +27,5 @@ print(df_concat)
 df_concat.to_csv("output.csv", index=False)
 print()
 print("output.csv に保存しました")
+
+print("処理を終了します")
